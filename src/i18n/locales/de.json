@@ -1,0 +1,21 @@
+{
+  "common": {
+    "welcome": "Willkommen",
+    "play": "Spielen",
+    "close": "Schließen",
+    "selectLocation": "Standort auswählen"
+  },
+  "game": {
+    "openGame": "Spiel öffnen",
+    "loading": "Spiel wird geladen...",
+    "error": "Fehler beim Laden des Spiels"
+  },
+  "footer": {
+    "downloadCasino": "Casino herunterladen",
+    "playAnywhere": "Spiele Min überall, jederzeit",
+    "installApp": "App installieren",
+    "usOnSocialMedia": "Wir in sozialen Medien:",
+    "only18Plus": "Nur 18+",
+    "certified": "Casino ist von der Anjouan Gaming Authority zertifiziert"
+  }
+}

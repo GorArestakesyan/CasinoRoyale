@@ -1,0 +1,21 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "play": "Play",
+    "close": "Close",
+    "selectLocation": "Select Location"
+  },
+  "game": {
+    "openGame": "Open the game",
+    "loading": "Loading game...",
+    "error": "Error loading game"
+  },
+  "footer": {
+    "downloadCasino": "Download Casino",
+    "playAnywhere": "Play Min anywhere, anytime",
+    "installApp": "Install App",
+    "usOnSocialMedia": "Us on social media:",
+    "only18Plus": "Only 18+",
+    "certified": "Casino is certified by the Anjouan Gaming Authority"
+  }
+}
